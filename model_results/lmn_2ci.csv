@@ -1,0 +1,41 @@
+,l,c,score,model,scaler
+8,9,21.54434690031882,0.8428571428571429,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()
+0,1,166.81005372000558,0.8406593406593407,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()
+18,19,0.3593813663804626,0.8285714285714285,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()
+1,2,1291.5496650148827,0.8142857142857143,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()
+2,3,2.782559402207126,0.8131868131868133,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()
+11,12,0.3593813663804626,0.8131868131868132,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()
+17,18,0.3593813663804626,0.8,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()
+10,11,2.782559402207126,0.8,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()
+5,6,2.782559402207126,0.8,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()
+19,20,0.3593813663804626,0.798901098901099,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()
+4,5,166.81005372000558,0.7857142857142858,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()
+3,4,21.54434690031882,0.7857142857142858,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()
+7,8,21.54434690031882,0.7857142857142857,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()
+12,13,21.54434690031882,0.7857142857142857,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()
+16,17,0.3593813663804626,0.7857142857142857,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()
+13,14,0.3593813663804626,0.7846153846153847,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()
+9,10,0.3593813663804626,0.7714285714285715,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()
+6,7,21.54434690031882,0.7703296703296703,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()
+14,15,2.782559402207126,0.7703296703296703,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()
+15,16,2.782559402207126,0.756043956043956,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='saga')",StandardScaler()

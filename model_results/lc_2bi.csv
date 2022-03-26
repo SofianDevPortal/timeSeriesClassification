@@ -1,0 +1,41 @@
+,l,c,score,model,scaler
+2,3,0.3593813663804626,0.9714285714285715,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
+3,4,2.782559402207126,0.9714285714285715,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
+6,7,21.54434690031882,0.9714285714285715,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
+12,13,1291.5496650148827,0.9703296703296704,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
+4,5,10000.0,0.9703296703296704,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
+7,8,10000.0,0.9703296703296704,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
+15,16,1291.5496650148827,0.9703296703296704,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
+19,20,2.782559402207126,0.9571428571428571,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
+11,12,2.782559402207126,0.9571428571428571,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
+18,19,166.81005372000558,0.956043956043956,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
+17,18,166.81005372000558,0.956043956043956,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
+16,17,1291.5496650148827,0.956043956043956,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
+0,1,0.3593813663804626,0.956043956043956,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
+1,2,2.782559402207126,0.956043956043956,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
+9,10,1291.5496650148827,0.956043956043956,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
+10,11,1291.5496650148827,0.956043956043956,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
+13,14,1291.5496650148827,0.9549450549450549,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
+5,6,10000.0,0.9549450549450549,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
+14,15,166.81005372000558,0.9417582417582417,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
+8,9,10000.0,0.9417582417582417,"LogisticRegressionCV(max_iter=1000, penalty='l1', random_state=42,
+                     solver='liblinear')",StandardScaler()
